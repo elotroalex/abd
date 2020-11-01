@@ -5,3 +5,19 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+.page-content {
+
+}
+
+.banner {
+	height: 300px;
+	background-color: #cccccc;
+	background-image: url({{site.baseurl}}/assets/images/home.jpg);
+	background-size: cover;
+	margin-top: -30px;
+	margin-bottom: 30px;
+}
+
+
+
