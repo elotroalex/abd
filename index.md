@@ -7,3 +7,5 @@
 #
 layout: home
 ---
+
+![Biblioteca de San Pablo y San Gregorio]({{ site.baseurl }}/assets/images/home.jpg)
