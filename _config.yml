@@ -62,8 +62,8 @@ plugins:
 
 scholar:
   style: modern-language-association
-  source: ./_bibliography
-  locale: en
+  source: .
+  locale: es
   # sort_by: name
   order: descending
   group_by: none
