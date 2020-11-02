@@ -61,7 +61,7 @@ plugins:
 ## Jekyll Scholar settings
 
 scholar:
-  style: modern-language-association
+  style: apa
   source: .
   locale: es
   # sort_by: name
