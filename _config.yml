@@ -62,3 +62,4 @@ plugins:
 
 scholar:
   style: modern-language-association
+  source: ./_bibliography
