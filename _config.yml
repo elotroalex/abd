@@ -63,3 +63,12 @@ plugins:
 scholar:
   style: modern-language-association
   source: ./_bibliography
+  locale: en
+  sort_by: year
+  order: descending
+  group_by: none
+  group_order: ascending
+  bibliography: main.bib
+  bibliography_template: bibliography
+  
+  # relative: "/ed/bibliography.html"
