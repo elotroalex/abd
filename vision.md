@@ -8,6 +8,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec non mi interdum, 
 
 Una visión para...
 
-- [Las bibliotecas publicas]({{"/vision/publicas/" | absolute_url}})
-- [Una organización profesional]({{"/vision/organizacion/" | absolute_url}})
-- [Las bibliotecas especiales]({{"/vision/especiales/" | absolute_url}})
+- [Las Bibliotecas públicas]({{"/vision/publicas/" | absolute_url}})
+- [Una Organización profesional]({{"/vision/organizacion/" | absolute_url}})
+- [Las Bibliotecas especiales]({{"/vision/especiales/" | absolute_url}})
+- Las Bibliotecas digitales
+- El Acceso a las fuentes extranjeras
+- Un Observatorio y laboratorio de la información y el saber dominicano
+- La Preservación y conservación de documentos
+- Los Procesos técnicos
