@@ -4,15 +4,4 @@ title: Nosotros
 permalink: /nosotros/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec non mi interdum, dictum nunc vitae, varius dui. Duis quis volutpat elit. Integer enim justo, facilisis vitae finibus et, rhoncus in sem. Maecenas vitae sem eu lectus fermentum varius vel vitae diam. Duis ipsum urna, posuere nec velit at, pretium ornare mi. Nunc volutpat commodo ipsum, non semper mauris eleifend ut. Donec pharetra enim vitae sapien imperdiet, ut facilisis erat tincidunt. Donec pharetra venenatis hendrerit. Praesent et justo ac justo eleifend mollis et id lorem. 
