@@ -16,3 +16,4 @@ Una visión para...
 - Un Observatorio y laboratorio de la información y el saber dominicano
 - La Preservación y conservación de documentos
 - Los Procesos técnicos
+
