@@ -8,6 +8,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec non mi interdum, 
 
 Una visión para...
 
-- [Las bibliotecas publicas]()
-- [Una organización profesional]()
-- [Las bibliotecas especiales]()
+- [Las bibliotecas publicas]({{"/vision/publicas/" | absolute_url}})
+- [Una organización profesional]({{"/vision/organizacion/" | absolute_url}})
+- [Las bibliotecas especiales]({{"/vision/especiales/" | absolute_url}})
